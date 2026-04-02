@@ -54,12 +54,16 @@
 .header__address {
     display: block;
     width: 240px;
-    line-height: 24.3px;
     justify-self: end;
+    line-height: 24.3px;
 }
 
 .address__link {
     text-decoration: underline;
+}
+
+.address__text{
+    font-style: normal;
 }
 
 /*COVER*/
