@@ -6,8 +6,7 @@
 - HTML
 - CSS
 
-## Ссылка на GitHub Pages
-https://github.com/issedafuu
-
 ## Автор
 Maxim Stafeev
+
+https://github.com/issedafuu/ono-tebe-nado-fd
